@@ -10,7 +10,7 @@
 ## 正式交付
 
 - `batch7_501-550/`：完整目录，包含 `images/`、总览图、HTML 画廊、CSV/JSON 来源清单和说明。
-- `artifacts/crowd_batch7_501-550_real_people_1k_4k.zip`：与上述目录对应的 ZIP。
+- `v1.0-batch7` Release 中的 `crowd_batch7_501-550_real_people_1k_4k.zip`：与上述目录对应的 ZIP。
 
 第 7 批照片为小红书来源的真实人群实拍，长边范围为 1000–4000 像素；处理过程中未放大或生成画面内容。
 
@@ -38,7 +38,7 @@
 ## 文件说明
 
 - `batch7_501-550/`：第 7 批完整正式交付。
-- `artifacts/`：第 7 批 ZIP。
+- `v1.0-batch7` Release：第 7 批 ZIP 下载。
 - `metadata/`：截至 550 张的历史清单（JSON/CSV）。
 - `batch8_progress/candidate_index.json`：已清理本地绝对路径的候选索引。
 - `batch8_progress/progress_snapshot.json`：候选数量、查询分布和阶段状态。
