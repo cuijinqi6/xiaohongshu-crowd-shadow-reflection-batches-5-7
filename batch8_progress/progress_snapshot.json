@@ -1,0 +1,224 @@
+{
+  "generated_at_utc": "2026-10-29T00:24:19.756612+00:00",
+  "official_delivered_images": 550,
+  "batch7_completed_images": 50,
+  "batch7_id_range": [
+    501,
+    550
+  ],
+  "batch8_status": "collection_in_progress_not_final",
+  "batch8_target_range": [
+    551,
+    750
+  ],
+  "batch8_target_images": 200,
+  "batch8_final_selected_images": 0,
+  "batch8_unique_candidate_image_ids": 1010,
+  "batch8_candidate_source_counts": {
+    "cached_highres": 856,
+    "live_preview": 154
+  },
+  "batch8_query_counts": {
+    "": 328,
+    "栈桥 晴天 游客": 69,
+    "茶卡盐湖 人群 倒影": 68,
+    "南京路 晴天": 57,
+    "迪士尼 晴天 随拍": 49,
+    "北京路 步行街 晴天": 45,
+    "广州 北京路 雨夜": 38,
+    "天坛 晴天": 31,
+    "天安门 晴天 游客": 31,
+    "公园或广场 人群 实拍 国内": 28,
+    "商场 人流 实拍 白天": 27,
+    "大兴机场 倒影": 26,
+    "步行街 人群 实拍 国内": 25,
+    "国庆 景区 人群 实拍 白天": 22,
+    "地铁站 人群 实拍 国内": 22,
+    "国内 白天 人山人海 实拍": 20,
+    "南京路 雨天": 17,
+    "春熙路 雨天 街拍": 17,
+    "江汉路 雨夜": 17,
+    "新街口 雨夜": 14,
+    "人群 倒影 街头": 10,
+    "太古里 雨后 倒影": 10,
+    "街头 人群 实拍 白天 国内": 10,
+    "长沙 五一广场 雨夜": 10,
+    "南京路 雨夜 倒影": 6,
+    "街头摄影 群像 光影": 5,
+    "东门 雨夜": 3,
+    "人群 影子 街头摄影": 3,
+    "重庆 雨夜 人群 倒影": 2
+  },
+  "batch8_contact_sheets": [
+    {
+      "name": "batch8_progress/contact_sheets/legacy_batch8_contact_01.jpg",
+      "bytes": 698322,
+      "sha256": "bd04ceea393193e1f2cbb8e0dafd24c59c70aeb3d756eb4f466e4504e5500bbe"
+    },
+    {
+      "name": "batch8_progress/contact_sheets/legacy_batch8_contact_02.jpg",
+      "bytes": 661959,
+      "sha256": "37f92c780072fb3b2bb30ec0dc936b38ed5bd05d1596a5eb94c8197c8da700b5"
+    },
+    {
+      "name": "batch8_progress/contact_sheets/legacy_batch8_contact_03.jpg",
+      "bytes": 747605,
+      "sha256": "e5c773321e4e995830a61beb3c84a96da780a00baeca6bf5cd55cc75dbf83bbd"
+    },
+    {
+      "name": "batch8_progress/contact_sheets/legacy_batch8_contact_04.jpg",
+      "bytes": 583412,
+      "sha256": "0766d587dce1b81c05b0d538fb2d46d1d230e40427fc605b6328c2be350187ab"
+    },
+    {
+      "name": "batch8_progress/contact_sheets/legacy_batch8_contact_05.jpg",
+      "bytes": 589608,
+      "sha256": "a99d391ea59f6dacbde842ba1f58314b3eb3a0880866e960d87148d196156688"
+    },
+    {
+      "name": "batch8_progress/contact_sheets/legacy_batch8_contact_06.jpg",
+      "bytes": 707171,
+      "sha256": "001160313876bc5b824c92d0dde499ea32ea2c97a3b8a6de1ab299932e07e6f1"
+    },
+    {
+      "name": "batch8_progress/contact_sheets/legacy_batch8_contact_07.jpg",
+      "bytes": 733730,
+      "sha256": "20028ff4bca61ffb9d807f8f17c97161d9d53d18d49950fbb40b6c6a81f0aa00"
+    },
+    {
+      "name": "batch8_progress/contact_sheets/legacy_batch8_contact_08.jpg",
+      "bytes": 669157,
+      "sha256": "69131f7d2c0172e7cfca738d4a77cc25fddf3694bc05f99b37c127083e2abffd"
+    },
+    {
+      "name": "batch8_progress/contact_sheets/legacy_batch8_contact_09.jpg",
+      "bytes": 665059,
+      "sha256": "8b7fac843c177deb23f56fde7639d040f8ce1d28e41b244ad12c0fad7fcb2bab"
+    },
+    {
+      "name": "batch8_progress/contact_sheets/legacy_batch8_contact_10.jpg",
+      "bytes": 707692,
+      "sha256": "823034dc777851308a862ae55eda06223ff0c40fa1929589e42d6523cebd2b8b"
+    },
+    {
+      "name": "batch8_progress/contact_sheets/legacy_batch8_contact_11.jpg",
+      "bytes": 637256,
+      "sha256": "c450bd97c0a4d072e7ef1b049320e3f97b3aab22410416489c8a7aa4d093a02c"
+    },
+    {
+      "name": "batch8_progress/contact_sheets/legacy_batch8_contact_12.jpg",
+      "bytes": 634292,
+      "sha256": "a5021cb20b7d63dd104850f79ec654507fdcd5eb3d01d5a795b973ef60f5792c"
+    },
+    {
+      "name": "batch8_progress/contact_sheets/live_live_all_01.jpg",
+      "bytes": 775923,
+      "sha256": "cbc556ad4ff0880f30c8366f722b9cc6f07ebbc255eacfd2eb7fa44c68effe9f"
+    },
+    {
+      "name": "batch8_progress/contact_sheets/live_live_all_02.jpg",
+      "bytes": 671162,
+      "sha256": "ba6500213a4c2721a4925f482ae0cb64e33737c20e87d0d85f8d8c8049955cd0"
+    },
+    {
+      "name": "batch8_progress/contact_sheets/live_live_all_03.jpg",
+      "bytes": 677924,
+      "sha256": "723e58402ed1a73eba85446fe191051f6abc5008f5c4311dd1f2bf34f12ca5b6"
+    },
+    {
+      "name": "batch8_progress/contact_sheets/live_live_all_04.jpg",
+      "bytes": 712020,
+      "sha256": "17e01b2e114b310296f41a430753a229c99f0dd69aa7d2b3b3aa89c6a2a8b182"
+    },
+    {
+      "name": "batch8_progress/contact_sheets/live_live_all_05.jpg",
+      "bytes": 668574,
+      "sha256": "426680ce8bbd4314b0c8a4e65e808ff571cd6f7e58b20533b328a5b9be2f6d34"
+    },
+    {
+      "name": "batch8_progress/contact_sheets/live_live_all_06.jpg",
+      "bytes": 691649,
+      "sha256": "0468d279cb38c7c75c859ffa6da2596fe1423457473641af3abdccb7e7a45885"
+    },
+    {
+      "name": "batch8_progress/contact_sheets/live_live_all_07.jpg",
+      "bytes": 149644,
+      "sha256": "38ab925e2b7861e1a780448beb9dc8e8ae4249f91309cb5b5fc67e570861f9ce"
+    },
+    {
+      "name": "batch8_progress/contact_sheets/cached_cached_contact_01.jpg",
+      "bytes": 838385,
+      "sha256": "f32bf9b19030af5e2bc851bef5c896459327099b169db2b281adb00f1132088a"
+    },
+    {
+      "name": "batch8_progress/contact_sheets/cached_cached_contact_02.jpg",
+      "bytes": 795442,
+      "sha256": "6abb1ad9b64f0152920ecf4dbc20d766d8e39a8887a3a4f5fd77cc2fa13a9705"
+    },
+    {
+      "name": "batch8_progress/contact_sheets/cached_cached_contact_03.jpg",
+      "bytes": 869010,
+      "sha256": "19aed4ffadde517b2335a7e2af82cbce73b32b667d1ae27308cd8284ecc1eb3e"
+    },
+    {
+      "name": "batch8_progress/contact_sheets/cached_cached_contact_04.jpg",
+      "bytes": 791119,
+      "sha256": "30e6031afed6ea5ecfdbf8461fb5bd95cc973f7323e95e3d0949a4cc80383cf7"
+    },
+    {
+      "name": "batch8_progress/contact_sheets/cached_cached_contact_05.jpg",
+      "bytes": 857304,
+      "sha256": "aab3cdc0d9e6af01467a7116a8b21eba477c7c17d45df910df98f2419811e4d7"
+    },
+    {
+      "name": "batch8_progress/contact_sheets/cached_cached_contact_06.jpg",
+      "bytes": 866648,
+      "sha256": "1c1cd2e9d5b3614ea0fb05383551a040cc52d4ceb51c1951f0572cba9444ed1a"
+    },
+    {
+      "name": "batch8_progress/contact_sheets/cached_cached_contact_07.jpg",
+      "bytes": 747713,
+      "sha256": "c64f02dbe193dcec8967e9b4e2c452108334e4604983c3347a715d8629206f35"
+    },
+    {
+      "name": "batch8_progress/contact_sheets/cached_cached_contact_08.jpg",
+      "bytes": 876749,
+      "sha256": "2d9b322adfec35fa99407161d7b3971ac35a7e3feb249755bc40435f2389ece8"
+    },
+    {
+      "name": "batch8_progress/contact_sheets/cached_cached_contact_09.jpg",
+      "bytes": 813009,
+      "sha256": "ff88e04ef4b9d90ea708ef952be13f31e3d6c265111e0256cbd53af88973afa0"
+    },
+    {
+      "name": "batch8_progress/contact_sheets/cached_cached_contact_10.jpg",
+      "bytes": 751776,
+      "sha256": "e5823039a2e486ebb6b7b65ecfebabcc679ab96cc0ab6e2746d10e6e5c28ea96"
+    },
+    {
+      "name": "batch8_progress/contact_sheets/cached_cached_contact_11.jpg",
+      "bytes": 865610,
+      "sha256": "4e5bb464187c7ad7c5bd9df580fcc76ecd1511ead2ad89f589d3c39318fec2c0"
+    },
+    {
+      "name": "batch8_progress/contact_sheets/cached_cached_contact_12.jpg",
+      "bytes": 739349,
+      "sha256": "f2b67134bacd19aecce34b361fe80282bfae91c723cc62eb2341b12c04202eba"
+    },
+    {
+      "name": "batch8_progress/contact_sheets/cached_cached_contact_13.jpg",
+      "bytes": 870813,
+      "sha256": "ee8c88e20c8c15f7a6897a0c3d032af95c147b60bb23fe3dfc2013bf596c90f6"
+    },
+    {
+      "name": "batch8_progress/contact_sheets/cached_cached_contact_14.jpg",
+      "bytes": 302663,
+      "sha256": "05b799ae1a91e99d060edf5cfc726d14f19beb691e3dc7011619bb51f6e0c6c9"
+    }
+  ],
+  "notes": [
+    "Candidate records are evidence of collection progress, not an approved delivery.",
+    "No batch 8 candidate has yet been assigned an official 551-750 ID.",
+    "Local absolute candidate paths are intentionally omitted."
+  ]
+}
