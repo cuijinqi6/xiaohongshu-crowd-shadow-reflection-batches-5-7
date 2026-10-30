@@ -1,0 +1,136 @@
+{
+  "verified_at_utc": "2026-10-30T16:05:36.5277250+00:00",
+  "release_id": 429176885,
+  "tag_name": "v1.1-batch8",
+  "release_url": "https://github.com/cuijinqi6/xiaohongshu-crowd-shadow-reflection-batches-5-7/releases/tag/v1.1-batch8",
+  "prerelease": false,
+  "asset_count": 11,
+  "total_asset_bytes": 705143260.0,
+  "all_api_digests_match_manifest": true,
+  "end_to_end_download_checked": "part011",
+  "end_to_end_download_match": true,
+  "archive_sha256": "8c0dbd4f25176fe2a0f4c0d6f640795a17dcb5dd32ed9dbe4398d324e8767500",
+  "assets": [
+    {
+      "id": 692494064,
+      "name": "crowd_batch8_551-750_real_people_1k_4k.zip.part001",
+      "size": 67108864,
+      "state": "uploaded",
+      "digest": "sha256:e620ae8be65a323d24fdfe1db79aab0c28ff4ea0f63cb0098ac17184b54e2b30",
+      "content_type": "application/octet-stream",
+      "created_at": "2026-10-30T15:15:43Z",
+      "updated_at": "2026-10-30T15:16:34Z",
+      "browser_download_url": "https://github.com/cuijinqi6/xiaohongshu-crowd-shadow-reflection-batches-5-7/releases/download/v1.1-batch8/crowd_batch8_551-750_real_people_1k_4k.zip.part001"
+    },
+    {
+      "id": 692496489,
+      "name": "crowd_batch8_551-750_real_people_1k_4k.zip.part002",
+      "size": 67108864,
+      "state": "uploaded",
+      "digest": "sha256:dcc70dde2cacb9c6af689fa63d27ef86c1d6bf97576cd7d4695d4eb3abbb3d86",
+      "content_type": "application/octet-stream",
+      "created_at": "2026-10-30T15:16:36Z",
+      "updated_at": "2026-10-30T15:17:37Z",
+      "browser_download_url": "https://github.com/cuijinqi6/xiaohongshu-crowd-shadow-reflection-batches-5-7/releases/download/v1.1-batch8/crowd_batch8_551-750_real_people_1k_4k.zip.part002"
+    },
+    {
+      "id": 692499343,
+      "name": "crowd_batch8_551-750_real_people_1k_4k.zip.part003",
+      "size": 67108864,
+      "state": "uploaded",
+      "digest": "sha256:58990e0ece89e574a383f1ad45f7fbd1185d472567b1b1685a7a1cc4b48675d3",
+      "content_type": "application/octet-stream",
+      "created_at": "2026-10-30T15:17:39Z",
+      "updated_at": "2026-10-30T15:18:50Z",
+      "browser_download_url": "https://github.com/cuijinqi6/xiaohongshu-crowd-shadow-reflection-batches-5-7/releases/download/v1.1-batch8/crowd_batch8_551-750_real_people_1k_4k.zip.part003"
+    },
+    {
+      "id": 692502867,
+      "name": "crowd_batch8_551-750_real_people_1k_4k.zip.part004",
+      "size": 67108864,
+      "state": "uploaded",
+      "digest": "sha256:6be1591b3d9c9e52e7f70796896d15c9497faa36aacdac1e8a6ade19e4cbe154",
+      "content_type": "application/octet-stream",
+      "created_at": "2026-10-30T15:18:52Z",
+      "updated_at": "2026-10-30T15:19:48Z",
+      "browser_download_url": "https://github.com/cuijinqi6/xiaohongshu-crowd-shadow-reflection-batches-5-7/releases/download/v1.1-batch8/crowd_batch8_551-750_real_people_1k_4k.zip.part004"
+    },
+    {
+      "id": 692506092,
+      "name": "crowd_batch8_551-750_real_people_1k_4k.zip.part005",
+      "size": 67108864,
+      "state": "uploaded",
+      "digest": "sha256:98115e0065737ec840eed9744520dd1a1531964e3a0ff3b53f198bf45e0ade0d",
+      "content_type": "application/octet-stream",
+      "created_at": "2026-10-30T15:19:50Z",
+      "updated_at": "2026-10-30T15:20:18Z",
+      "browser_download_url": "https://github.com/cuijinqi6/xiaohongshu-crowd-shadow-reflection-batches-5-7/releases/download/v1.1-batch8/crowd_batch8_551-750_real_people_1k_4k.zip.part005"
+    },
+    {
+      "id": 692507685,
+      "name": "crowd_batch8_551-750_real_people_1k_4k.zip.part006",
+      "size": 67108864,
+      "state": "uploaded",
+      "digest": "sha256:0d4fde68b85498a298b0dc092c6fd45b2f1d90660aa75a4add014e372c3b1ed8",
+      "content_type": "application/octet-stream",
+      "created_at": "2026-10-30T15:20:20Z",
+      "updated_at": "2026-10-30T15:21:02Z",
+      "browser_download_url": "https://github.com/cuijinqi6/xiaohongshu-crowd-shadow-reflection-batches-5-7/releases/download/v1.1-batch8/crowd_batch8_551-750_real_people_1k_4k.zip.part006"
+    },
+    {
+      "id": 692509660,
+      "name": "crowd_batch8_551-750_real_people_1k_4k.zip.part007",
+      "size": 67108864,
+      "state": "uploaded",
+      "digest": "sha256:d655f6c146430047103508485dc77138063d47fa9a77c023eb94f5b33b1edc41",
+      "content_type": "application/octet-stream",
+      "created_at": "2026-10-30T15:21:04Z",
+      "updated_at": "2026-10-30T15:22:01Z",
+      "browser_download_url": "https://github.com/cuijinqi6/xiaohongshu-crowd-shadow-reflection-batches-5-7/releases/download/v1.1-batch8/crowd_batch8_551-750_real_people_1k_4k.zip.part007"
+    },
+    {
+      "id": 692512321,
+      "name": "crowd_batch8_551-750_real_people_1k_4k.zip.part008",
+      "size": 67108864,
+      "state": "uploaded",
+      "digest": "sha256:2fe9772babdb2cc3ffdac23e4c82898f8104590919636d6ac7a6a9410e09607d",
+      "content_type": "application/octet-stream",
+      "created_at": "2026-10-30T15:22:03Z",
+      "updated_at": "2026-10-30T15:23:01Z",
+      "browser_download_url": "https://github.com/cuijinqi6/xiaohongshu-crowd-shadow-reflection-batches-5-7/releases/download/v1.1-batch8/crowd_batch8_551-750_real_people_1k_4k.zip.part008"
+    },
+    {
+      "id": 692514944,
+      "name": "crowd_batch8_551-750_real_people_1k_4k.zip.part009",
+      "size": 67108864,
+      "state": "uploaded",
+      "digest": "sha256:c810396d7452fb39d21f6b73a830cc1f9559a0a7f830e1fa8db60bf097c809bc",
+      "content_type": "application/octet-stream",
+      "created_at": "2026-10-30T15:23:03Z",
+      "updated_at": "2026-10-30T15:24:08Z",
+      "browser_download_url": "https://github.com/cuijinqi6/xiaohongshu-crowd-shadow-reflection-batches-5-7/releases/download/v1.1-batch8/crowd_batch8_551-750_real_people_1k_4k.zip.part009"
+    },
+    {
+      "id": 692518095,
+      "name": "crowd_batch8_551-750_real_people_1k_4k.zip.part010",
+      "size": 67108864,
+      "state": "uploaded",
+      "digest": "sha256:043cb87ba6eafb82fe40a5f39e271cd59bc4ca20790e66e20d3bc85bf28026a7",
+      "content_type": "application/octet-stream",
+      "created_at": "2026-10-30T15:24:11Z",
+      "updated_at": "2026-10-30T15:25:40Z",
+      "browser_download_url": "https://github.com/cuijinqi6/xiaohongshu-crowd-shadow-reflection-batches-5-7/releases/download/v1.1-batch8/crowd_batch8_551-750_real_people_1k_4k.zip.part010"
+    },
+    {
+      "id": 692522926,
+      "name": "crowd_batch8_551-750_real_people_1k_4k.zip.part011",
+      "size": 34054620,
+      "state": "uploaded",
+      "digest": "sha256:91c23b5eae8f1d98d054c762f4228db8e025d0298cdb72922f248d19c3a024b0",
+      "content_type": "application/octet-stream",
+      "created_at": "2026-10-30T15:25:42Z",
+      "updated_at": "2026-10-30T15:26:11Z",
+      "browser_download_url": "https://github.com/cuijinqi6/xiaohongshu-crowd-shadow-reflection-batches-5-7/releases/download/v1.1-batch8/crowd_batch8_551-750_real_people_1k_4k.zip.part011"
+    }
+  ]
+}
