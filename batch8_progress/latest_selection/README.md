@@ -21,7 +21,11 @@
 
 ## Release 分卷
 
-原始候选项通过独立 ZIP 分卷保存，共 10 个。每个 ZIP 可直接单独打开，不依赖其他分卷，分卷索引见 Release 正文或本地 `parts_index.json`。
+原始候选项通过独立 ZIP 分卷保存，共 10 个，总计 698,799,511 字节：
+
+https://github.com/cuijinqi6/xiaohongshu-crowd-shadow-reflection-batches-5-7/releases/tag/v0.8-batch8-provisional-20261030
+
+每个 ZIP 可直接单独打开，不依赖其他分卷。GitHub API 返回的全部 10 个资产 SHA-256 已与本地清单逐项匹配；第 10 卷还完成了实际下载后的端到端哈希复核。远端资产 ID、大小、SHA-256 和下载地址记录在 `release_verification.json`。
 
 ## 恢复下一步
 
